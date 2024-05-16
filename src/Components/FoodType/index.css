@@ -1,0 +1,16 @@
+
+.food-type-container{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    min-height: 120vh;
+    background-color: aquamarine;
+
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+
+}

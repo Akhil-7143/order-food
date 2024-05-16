@@ -1,0 +1,30 @@
+.home-container{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    min-height: 120vh;
+    background-image: url("https://img.freepik.com/free-photo/top-view-delicious-spaghetti-with-copy-space_23-2150857950.jpg?t=st=1715747166~exp=1715750766~hmac=1fd11072d7d9d1bfea37711530ed0f7d0df142c4485027a6c6384bd42a4c470d&w=996");
+    background-size: cover;
+
+}
+.navbar{
+    display:flex ;
+    justify-content: space-between;
+    align-items: center;
+    height: 16vh;
+    width: 100%;
+    background-color: #fff;
+}
+.navbar-logo{
+    display:flex;
+
+}
+.logo{
+    width: 10vw;
+    height: 15vh;
+}
+.items-container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}

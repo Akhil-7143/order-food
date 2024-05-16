@@ -1,0 +1,30 @@
+.item-card{
+    display: flex;
+    flex-direction: column;
+    width: 46%;
+    flex-wrap: wrap;
+    text-align: center;
+    border-radius: 9px;
+    text-decoration: none;
+    background-color: rgb(238, 247, 237);
+    text-align: center;
+    margin: 3px;
+   
+}
+.food-item{
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+    
+}
+p{
+    color:rgb(18, 18, 18);
+    font-size: 12px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.image{
+    width:98%;
+    height: 36vh;
+    border-radius:10px ;
+}
